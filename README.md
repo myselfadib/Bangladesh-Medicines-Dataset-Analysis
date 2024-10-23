@@ -13,7 +13,7 @@ The dataset consists of several CSV files containing information on:
 - **Generic Medicines**: Details about generic medicine entries.
 - **Manufacturers**: Information about pharmaceutical companies.
 - **Dosage Forms**: Types of dosage forms and their counts.
-- *Drug Classes**: Classification of medicines based on pharmacological properties.
+- **Drug Classes**: Classification of medicines based on pharmacological properties.
 - **Indications**: Medical conditions treated by the medicines.
 
 ## Technologies Used
